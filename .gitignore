@@ -5,4 +5,5 @@ node_modules/
 .env
 
 # ignorar arquivos de log (Ignora todos os arquivos terminados em .log)
-*.log
+*.log 
+
