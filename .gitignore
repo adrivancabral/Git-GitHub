@@ -1,0 +1,8 @@
+# ignorar dependências do Node.js (Ignora a pasta e seu conteúdo)
+node_modules/ 
+
+# Ignorar variáveis de ambiente e credenciais (Ignora o arquivo .env)
+.env
+
+# ignorar arquivos de log (Ignora todos os arquivos terminados em .log)
+*.log
