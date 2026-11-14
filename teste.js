@@ -16,3 +16,14 @@ console.log('sistema de veículos inciado!');
 // git switch main : troca de branch
 // git switch -c teste :  criar e trocar de branch
 // git revert HASH_DO_COMMIT : Cria um novo commit que desfaz as alterações de um commit anterior, preservando o histórico
+// git pull: puxa a versão mais atualizada do codigo do github para o seu computador atual
+// git clone URL-REPOSITORIO: clona todo um codigo que estiver no github para o seu computador
+
+// git branch feature/cadastro : Cria uma branch 
+// (feature/: novas funcionalidades. fix/ : Correções de problemas. hotfix/ : correções urgentes. refactor/ : melhorias na estrutura do código)
+// git branch : visualizar as branches
+// git switch feature/cadastro : alterna entre as branches
+// git switch -c feature/login : cria e altera para branch criada em um unico comando 
+// git push -u origin feature/cadastro :  subir a branch para o git
+// git branch -d feature/cadastro :  deleta a branch 
+// 
