@@ -26,4 +26,5 @@ console.log('sistema de veículos inciado!');
 // git switch -c feature/login : cria e altera para branch criada em um unico comando 
 // git push -u origin feature/cadastro :  subir a branch para o git
 // git branch -d feature/cadastro :  deleta a branch 
+// git merge feature/cadastro :  integra as branches localmente
 // 
